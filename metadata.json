@@ -1,0 +1,9 @@
+{
+  "description": "Displays the IP address in the top bar, prioritizing VPN IP. Click to copy the IP address to the clipboard.",
+  "name": "Gnome IP Indicator",
+  "settings-schema": "org.gnome.shell.extensions.ipindicator",
+  "shell-version": ["47"],
+  "url": "https://github.com/godylockz/gnome-panel-genmon-ipindicator",
+  "uuid": "top-panel-genmon-ipindicator@godylockz",
+  "version": 1
+}
